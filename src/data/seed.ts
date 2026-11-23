@@ -64,7 +64,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-23",
     "start": "13:00",
     "end": "13:40",
-    "task": "Modern States Hist I: next units (videos at 1.5x + Check for Understanding quizzes)",
+    "task": "USH I: Getting Started + Unit 1 Colonial Period + Unit 2 American Revolution (19 items)",
     "category": "CLEP",
     "done": false
   },
@@ -73,7 +73,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-23",
     "start": "14:00",
     "end": "14:40",
-    "task": "Hist I course continued, aim for half the course done today",
+    "task": "USH I: Unit 3 Constitution + Unit 4 New Nation 1789–1824 (16 items)",
     "category": "CLEP",
     "done": false
   },
@@ -157,7 +157,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-24",
     "start": "13:00",
     "end": "13:40",
-    "task": "Hist I course: finish the remaining units + quizzes",
+    "task": "USH I: Unit 5 Jacksonian Democracy + Unit 6 Sectional Conflict (15 items)",
     "category": "CLEP",
     "done": false
   },
@@ -166,7 +166,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-24",
     "start": "14:00",
     "end": "14:40",
-    "task": "Hist I: Modern States sample CLEP, review the misses",
+    "task": "USH I: Unit 7 Civil War + Reconstruction (7 items), then skim your weak quizzes",
     "category": "CLEP",
     "done": false
   },
@@ -175,7 +175,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-24",
     "start": "15:00",
     "end": "15:40",
-    "task": "Hist I: Modern States final exam (need 75%+) → hit Voucher Request right away (~2 business days)",
+    "task": "USH I: Final exam (need 75%+) → request the voucher right away",
     "category": "CLEP",
     "done": false
   },
@@ -220,7 +220,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-25",
     "start": "09:00",
     "end": "09:40",
-    "task": "Modern States Hist II: units (videos + quizzes)",
+    "task": "USH II: Getting Started + Unit 1 Reconstruction + the West (21 items)",
     "category": "CLEP",
     "done": false
   },
@@ -229,7 +229,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-25",
     "start": "10:00",
     "end": "10:40",
-    "task": "Hist II course continued",
+    "task": "USH II: Unit 2 Industrialization + Urbanization (17 items)",
     "category": "CLEP",
     "done": false
   },
@@ -238,7 +238,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-25",
     "start": "11:00",
     "end": "11:40",
-    "task": "Hist II course continued",
+    "task": "USH II: Unit 3 Gilded Age + Progressive Movement (20 items)",
     "category": "CLEP",
     "done": false
   },
@@ -343,7 +343,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-26",
     "start": "13:00",
     "end": "13:40",
-    "task": "Hist II course: finish the remaining units + quizzes",
+    "task": "USH II: Unit 4 Age of Empire (20 items)",
     "category": "CLEP",
     "done": false
   },
@@ -352,7 +352,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-26",
     "start": "14:00",
     "end": "14:40",
-    "task": "Hist II: Modern States sample CLEP, review the misses",
+    "task": "USH II: Unit 5 1920s–1930s + Unit 6 FDR + New Deal (27 items)",
     "category": "CLEP",
     "done": false
   },
@@ -361,7 +361,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-26",
     "start": "15:00",
     "end": "15:40",
-    "task": "Hist II: Modern States final exam (75%+) → request the voucher",
+    "task": "USH II: Unit 7 Winning the War + Fighting the Peace (32 items, the big one)",
     "category": "CLEP",
     "done": false
   },
@@ -406,7 +406,7 @@ export const SEED_SESSIONS: Session[] = [
     "date": "2026-11-27",
     "start": "09:00",
     "end": "09:40",
-    "task": "Both vouchers requested? Save the codes + write a winter-break CLEP study list from your weakest units",
+    "task": "USH II: Unit 8 A Changing Nation, 1980–present (30 items)",
     "category": "CLEP",
     "done": false
   },
@@ -541,6 +541,15 @@ export const SEED_SESSIONS: Session[] = [
     "done": false
   },
   {
+    "id": "s66",
+    "date": "2026-11-28",
+    "start": "16:00",
+    "end": "16:40",
+    "task": "USH II: Final exam (75%+) → request the voucher. Both courses done 🎉",
+    "category": "CLEP",
+    "done": false
+  },
+  {
     "id": "s59",
     "date": "2026-11-29",
     "start": "10:00",
@@ -608,9 +617,9 @@ export const SEED_SESSIONS: Session[] = [
 export const SEED_DEADLINES: Deadline[] = [
   {
     "id": "d1",
-    "title": "Modern States courses (Hist I + II)",
-    "date": "2026-11-26",
-    "note": "Pass both finals (75%+) + request both vouchers"
+    "title": "Modern States courses (USH I + II)",
+    "date": "2026-11-28",
+    "note": "USH I final Tue, USH II final Sat. 75%+ on both, then request the vouchers"
   },
   {
     "id": "d2",
